@@ -18,9 +18,12 @@
 }
 
 @media (max-width:768px) {
+
 .info { text-align: center;
 }
+
 }
+
 .add-item {
   display: block;
   width: 500px;
@@ -56,6 +59,7 @@ button {
 button:hover {
   color: #3a3a3a;
 }
+
 /* Heading */
 h3,
 label[for="new-task"] {
