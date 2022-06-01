@@ -19,9 +19,9 @@
 
 @media (max-width: 768px) {
 
-.header {
-  text-align: center;
-}
+  .header {
+    text-align: center;
+  }
 
 }
 
@@ -110,7 +110,7 @@
 .list__link > * {
   vertical-align: middle;
 }
-.list__link > .checkbox {
+.list__link > .list__link__checkbox {
   margin: 0 10px;
 }
 .list__link > .task {
