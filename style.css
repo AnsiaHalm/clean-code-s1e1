@@ -94,7 +94,7 @@
   display: block;
   margin: 0 0 20px;
 }
-#add-item__new-task {
+.add-item__wrapper .task {
   width: 318px;
 }
 
@@ -132,7 +132,7 @@
 }
 
 /* Completed */
-#completed__list .list__link-name {
+.completed__list .list__link-name {
   text-decoration: line-through;
   color: #888;
 }
